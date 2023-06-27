@@ -22,5 +22,5 @@ $ curl -v http://localhost:3000
 ```
 
 ```
-$ curl -v http://localhost:3000/empty
+$ curl -v http://localhost:3000/empty # response body will be empty
 ```
